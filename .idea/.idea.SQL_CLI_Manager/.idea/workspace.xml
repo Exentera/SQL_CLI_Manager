@@ -10,6 +10,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c6a1dffd9d97a856f1c476918b1a52aba81da1bd4bbc22f1a2af5dddd7d32d/MySqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e05abd74ef48111f521af94ddebed4f6e1ab487e64b56b357aedbc314f5a2a/MySqlDataReader.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -64,6 +68,9 @@
       <updated>1746609798667</updated>
       <workItem from="1746609799798" duration="4132000" />
       <workItem from="1746788744248" duration="47000" />
+      <workItem from="1747147577150" duration="81000" />
+      <workItem from="1747299023915" duration="2443000" />
+      <workItem from="1747302492570" duration="5118000" />
     </task>
     <servers />
   </component>
