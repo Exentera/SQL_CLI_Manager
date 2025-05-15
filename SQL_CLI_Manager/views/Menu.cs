@@ -15,8 +15,10 @@ public class Menu
     {
         int selectedIndex = 0;
         ConsoleKey key;
+        
         do
         {
+            
             Console.Clear();
             Console.WriteLine(headderText);
             for (int i = 0; i < options.Length; i++)
